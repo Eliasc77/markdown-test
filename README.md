@@ -82,6 +82,8 @@ end autor_libro;
 
   <!-- github markdown-->
   * [x] task1
-  * [] task2
-  * [] task3
+  * [ ] task2
+  * [ ] task3
   * [x] task4
+
+  @eliasc :blush:  :muscle:  :+1:
